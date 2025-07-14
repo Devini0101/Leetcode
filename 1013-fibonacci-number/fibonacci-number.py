@@ -1,11 +1,9 @@
 class Solution:
     def fib(self, n: int) -> int:
-        if n == 0:
-            return 0
-        elif n==1:
-            return 1 
-        elif n==2:
-            return 1
-        return self.fib(n-1) + self.fib(n-2)
-        
+        result =n
+        a,b=0,1
+        for k in range (2,n+1):
+            result=a+b
+            a,b=b,result
+        return result
         
