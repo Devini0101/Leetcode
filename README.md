@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Devini0101/Leetcode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devini0101/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devini0101/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Devini0101/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Devini0101/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
