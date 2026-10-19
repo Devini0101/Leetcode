@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/Devini0101/Leetcode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devini0101/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0217-contains-duplicate](https://github.com/Devini0101/Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,4 +47,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devini0101/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Devini0101/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Devini0101/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
