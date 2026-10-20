@@ -1,5 +1,5 @@
 func groupAnagrams(strs []string) [][]string {
-	mapper := make(map[string][]string)
+	mapper := make(map[string][]string, len(strs))
 
 	for _, val := range strs {
 		//slice of unicodes of the str
